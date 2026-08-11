@@ -10,7 +10,7 @@
 
   - 🌱 Atualmente estou estudando Sistemas de Informação na <img align="center" alt="html5" src="https://img.shields.io/badge/Unifafibe-193A3E?style=for-the%20-badge&logo=unifafibe&logoColor%20=white%22" /> 
 
-  - 🔭 Atualmente estou trabalhando, sempre estudando e inovando. Meu sonho é um dia trabalhar com automações e fluxos.
+  - 🔭 Atualmente estou trabalhando, sempre estudando e inovando. Meu sonho é um dia trabalhar com automações, fluxos e cibersegurança.
 </p>
 
 <!-- Dropdown -->
